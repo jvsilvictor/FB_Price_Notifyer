@@ -8,6 +8,11 @@ The application will not collect any data from the group members, it will only c
 
 
 
+
+
+
+
+
 Política de Privacidade e Termos de Serviço
 
 Esta aplicação tem como finalidade o monitoramento e publicação de ofertas de produtos, do âmbito dos hardwares, em um grupo no Facebook.
